@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "DAE",
+        "CCC"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:egg"
+        },
+        "B": {
+            "item": "minecraft:warped_fungus"
+        },
+        "C": {
+            "item": "minecraft:crimson_fungus"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "E": {
+            "item": "minecraft:magma_cream"
+        }
+    },
+    "result": {
+        "item": "minecraft:magma_cube_spawn_egg",
+        "count": 1
+    }
+}
